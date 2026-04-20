@@ -1,6 +1,6 @@
 # odin-recipes
 
-HTML only website showing 3 different recipes.
+Website showcasing 3 different recipes.
 
 Credit:
 Images by Freepik

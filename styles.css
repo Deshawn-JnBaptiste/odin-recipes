@@ -16,11 +16,15 @@ h1{
 ul{
     display: inline-block;
     text-align: left;
-    /*list-style-type: none;*/
+    color: #F7DD7D;;
 }
+
 
 a{
     text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body{

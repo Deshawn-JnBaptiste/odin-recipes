@@ -27,6 +27,11 @@ a{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+a:hover{
+    background-color: #F7DD7D;
+    color: #406AAF;
+}
+
 body{
     background-color: #406AAF;
 }

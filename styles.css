@@ -1,5 +1,15 @@
 h1{
     text-align: center;
+    border: 5px solid #F7DD7D;
+    color: #ffffff;
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+.header{
+    text-align: center;
 }
 
 .recipes{
@@ -9,4 +19,9 @@ h1{
 ul{
     display: inline-block;
     text-align: left;
+    /*list-style-type: none;*/
+}
+
+body{
+    background-color: #406AAF;
 }

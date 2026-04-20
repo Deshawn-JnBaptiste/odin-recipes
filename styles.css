@@ -8,13 +8,10 @@ h1{
    
 }
 
-.header{
+.header,.recipes{
     text-align: center;
 }
 
-.recipes{
-    text-align: center;
-}
 
 ul{
     display: inline-block;

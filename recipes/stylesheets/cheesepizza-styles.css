@@ -1,8 +1,13 @@
-h1, h2{
+h1, h2, div{
     text-align: center;
 }
 
 img{
     display: block;
     margin: 0 auto;
+}
+
+ul,ol, .description p{
+    display: inline-block;
+    text-align: left;
 }

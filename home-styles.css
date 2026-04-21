@@ -5,7 +5,6 @@ h1{
     display: inline-block;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
-   
 }
 
 .header,.recipes{
@@ -15,7 +14,7 @@ h1{
 ul{
     display: inline-block;
     text-align: left;
-    color: #F7DD7D;;
+    color: #F7DD7D;
 }
 
 a{

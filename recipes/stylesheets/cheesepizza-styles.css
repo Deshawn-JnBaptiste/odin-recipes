@@ -11,3 +11,9 @@ ul,ol, .description p{
     display: inline-block;
     text-align: left;
 }
+
+body{
+    background-color: #406AAF;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}

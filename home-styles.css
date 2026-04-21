@@ -11,7 +11,9 @@ h1{
 .header,.recipes{
     text-align: center;
 }
-
+html{
+    background-color: #406AAF;
+}
 
 ul{
     display: inline-block;
@@ -30,8 +32,4 @@ a{
 a:hover{
     background-color: #F7DD7D;
     color: #406AAF;
-}
-
-body{
-    background-color: #406AAF;
 }
